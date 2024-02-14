@@ -1,0 +1,2 @@
+# PROBABILIDAD-Y-ESTADISTICA
+Ejercicio numero 8
